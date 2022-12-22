@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @campaniluis
+- 👀 I’m interested in IA (although I still haven't coded anything in that regard)
+- 🌱 I will be soon back at 42 Lisboa learning C. Currently getting a very basic knowledge of JavaScript and Python due to softwares being used in my research project of social network analysis
+- 💞️ I’m looking to connect with like-minded professionals
+- 📫 You can reach me in via luiscampani@protonmail.ch or linkedin.com/in/luiscampani
