@@ -8,4 +8,4 @@
 <img src="{https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white}" /> luiscampani@protonmail.ch
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={campaniluis}" />
